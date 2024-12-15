@@ -1,0 +1,8 @@
+{
+    "watched_directories": [
+        "/home/fidel/sensitive",
+        "/etc"
+    ],
+    "log_path": "/var/log/file_ids.log",
+    "recursive_watch": true
+}
